@@ -24,4 +24,7 @@ To clean
   $ docker system prune -a
 ```
 
-Reference: https://runnable.com/docker/java/dockerize-your-java-application
+Reference:
+
+*  https://runnable.com/docker/java/dockerize-your-java-application
+*  https://github.com/sbrosinski/spring-boot-on-k8s
